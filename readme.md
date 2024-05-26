@@ -1,17 +1,12 @@
-# <img src="projects/demo/src/assets/images/logo.svg" alt="icon" width="38" align="top" /> FireAdmin
-
-[![NPM version](https://img.shields.io/npm/v/ng-fire-admin)](https://www.npmjs.com/package/ng-fire-admin)
-[![Downloads](https://img.shields.io/npm/dt/ng-fire-admin)](https://www.npmjs.com/package/ng-fire-admin)
-[![License](https://img.shields.io/npm/l/ng-fire-admin)](LICENSE)
-[![Donate](https://img.shields.io/badge/PayPal-Donate-gray.svg?style=flat&logo=paypal&colorA=0071bb&logoColor=fff)](https://www.paypal.me/axeldev)
+# <img src="telegram.png" alt="icon" width="38" align="top" /> Angular 17 Telegram WebApp
 
 A minimalistic headless CMS built around Angular & Firebase.
 
-![screenshot](https://github.com/FirebaseGoodies/FireAdmin/blob/master/screenshots/dashboard.png?raw=true)
+![screenshot](https://github.com/ifoder/tgbot/blob/main/screenshot.jpg?raw=true)
 
 ## Demo
 
-[FireAdmin Demo](https://firebasegoodies.github.io/FireAdmin/demo/login?email=guest@fireadmin.com&password=fireadmin)
+[ Demo](https://firebasegoodies.github.io/FireAdmin/demo/login?email=guest@fireadmin.com&password=fireadmin)
 
 ## Features
 
