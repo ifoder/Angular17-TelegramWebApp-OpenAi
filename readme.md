@@ -1,12 +1,22 @@
-# <img src="telegram.png" alt="icon" width="38" align="top" /> Angular 17 Telegram WebApp
+# <img src="assets/telegram.png" alt="icon" width="38" align="top" /> Angular 17 Telegram WebApp
+
+![Static Badge](https://img.shields.io/badge/npm-10.0.0-blue)
+![Static Badge](https://img.shields.io/badge/Angular-17.0.1-orange)
 
 A minimalistic headless CMS built around Angular & Firebase.
 
-![screenshot](https://github.com/ifoder/tgbot/blob/main/screenshot.jpg?raw=true)
+![screenshot](https://github.com/ifoder/tgbot/blob/main/assets/screenshot.jpg?raw=true)
+
+## Links
+
+- Official docs: https://core.telegram.org/bots/webapps
+- Live Demo Bot: [Telegram Bot](https://t.me/ClevervolAngularAppBot)
+- Frontend for Telegram WebApp repository: [Angular 17 Firebase](https://t.me/durgerkingbot)
+- Backend for Telegram Bot repository: [Node.js](https://t.me/durgerkingbot)
 
 ## Demo
 
-[ Demo](https://firebasegoodies.github.io/FireAdmin/demo/login?email=guest@fireadmin.com&password=fireadmin)
+[Demo](https://t.me/ClevervolAngularAppBot)
 
 ## Features
 
